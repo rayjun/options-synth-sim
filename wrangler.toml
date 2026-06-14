@@ -1,0 +1,5 @@
+# Options Synth Sim — Cloudflare Pages config
+
+name = "options-synth-sim"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-06-13"
